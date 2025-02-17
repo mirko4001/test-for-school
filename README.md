@@ -1,2 +1,7 @@
 # test-for-school
-Nur zum Testen
+* asdf
+* asdf
+* asdf
+```c#
+Console.WriteLine("hallo welt")
+```
